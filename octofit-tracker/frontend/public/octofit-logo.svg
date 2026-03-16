@@ -1,0 +1,19 @@
+<!-- Octofit Tracker SVG Logo: Octopus + Fitness Icon -->
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32" cy="32" r="32" fill="#5bc0be"/>
+  <!-- Octopus head -->
+  <ellipse cx="32" cy="28" rx="12" ry="10" fill="#212d40"/>
+  <!-- Eyes -->
+  <ellipse cx="28" cy="28" rx="2" ry="3" fill="#fff"/>
+  <ellipse cx="36" cy="28" rx="2" ry="3" fill="#fff"/>
+  <!-- Tentacles -->
+  <path d="M20 38 Q18 48 28 44" stroke="#212d40" stroke-width="3" fill="none"/>
+  <path d="M24 38 Q22 52 32 46" stroke="#212d40" stroke-width="3" fill="none"/>
+  <path d="M28 38 Q28 54 36 46" stroke="#212d40" stroke-width="3" fill="none"/>
+  <path d="M36 38 Q40 54 44 44" stroke="#212d40" stroke-width="3" fill="none"/>
+  <path d="M40 38 Q46 48 36 44" stroke="#212d40" stroke-width="3" fill="none"/>
+  <!-- Fitness icon: Dumbbell -->
+  <rect x="26" y="16" width="12" height="4" rx="2" fill="#a3cef1"/>
+  <rect x="24" y="14" width="4" height="8" rx="2" fill="#212d40"/>
+  <rect x="36" y="14" width="4" height="8" rx="2" fill="#212d40"/>
+</svg>
